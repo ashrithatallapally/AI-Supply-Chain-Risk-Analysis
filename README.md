@@ -301,4 +301,4 @@ AI-Supply-Chain-Risk-Analysis/
 ├── AI_Supply_Chain_Risk_Analysis.ipynb
 ├── requirements.txt
 ├── README.md
-└── AI_Supply_Chain_Risk_Analysis_Report_FINAL.pdf
+└── AI_Supply_Chain_Risk_Analysis_Report.pdf
